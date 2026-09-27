@@ -4,7 +4,7 @@
 
 [راهنمای فارسی](README.fa.md) · [Download v1.0.0](https://github.com/maisamh80/MTools/releases/tag/v1.0.0) · [Report an issue](https://github.com/maisamh80/MTools/issues)
 
-![M Tools workflow library](docs/images/workflows.png)
+![M Tools workflow library](docs/images/workflows-en.png)
 
 ## What you can do
 
