@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+runtime/
+data/
+.mtools-owner.json
+node_modules/
+test-results/
+playwright-report/
+*.partial
+.DS_Store
