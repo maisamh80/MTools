@@ -4,7 +4,7 @@
 
 [English](README.md) · [دانلود نسخهٔ ۱](https://github.com/maisamh80/MTools/releases/tag/v1.0.0) · [گزارش مشکل](https://github.com/maisamh80/MTools/issues)
 
-![نمای پروژه‌های M Tools](docs/images/projects.png)
+![نمای فارسی ورک‌فلوهای M Tools](docs/images/workflows.png)
 
 ## امکانات
 
