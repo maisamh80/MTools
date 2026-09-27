@@ -1,0 +1,14 @@
+{
+  "name": "mtools-comfyui-portable",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check web/ui.js && node --check web/client.js && node --check web/mtools.js && node --check web/projects.js && node --check web/i18n.js && node --check preview/demo.js",
+    "test:ui": "node tests/ui.test.cjs",
+    "test:bilingual": "python scripts/build_preview.py && node tests/bilingual.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.55.1"
+  }
+}
